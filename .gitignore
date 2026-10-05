@@ -1,0 +1,14 @@
+/build/
+/build-*/
+*.exe
+*.o
+*.obj
+*.log
+/data/*
+!/data/.gitkeep
+/logs/*
+!/logs/.gitkeep
+.env
+.env.*
+!.env.example
+.DS_Store
